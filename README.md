@@ -69,14 +69,4 @@ Here are a few projects I've been working on:
 
 ---
 
-## ⚡ Dato Curioso | Fun Fact  
-
-**🇪🇸 Español**  
-Me encanta hacer senderismo y explorar nuevos caminos los fines de semana. 🌄  
-
-**🇬🇧 English**  
-I love hiking and exploring new trails on weekends! 🌄  
-
----
-
 ¡Gracias por visitar mi perfil! 😊 | Thanks for visiting my profile! 😊  
