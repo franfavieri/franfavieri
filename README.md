@@ -18,7 +18,6 @@ My research focuses on **labor markets, labor conflicts, trade unions, poverty, 
 - **📚 Frameworks**: React  
 - **🛠️ Herramientas | Tools**: Git, Docker  
 - **💾 Bases de datos | Databases**: SQL, MySQL, PostgreSQL  
-- **📊 Formatos de datos estadísticos | Statistical Data Formats**: CSV, Stata (.dta), SPSS (.sav), SAS (.sas7bdat), R (RDS, Parquet)  
 
 ---
 
@@ -53,7 +52,6 @@ Here are a few projects I've been working on:
 
 ## 🌱 Aprendiendo Actualmente | Currently Learning  
 
-- **📊 Algoritmos avanzados y estructuras de datos | Advanced algorithms and data structures**  
 - **🖥️ Desarrollo de aplicaciones Shiny | Shiny apps development**  
 
 ---
