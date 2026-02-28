@@ -1,70 +1,73 @@
-# 👋 ¡Hola! Soy Fran Favieri | Hi there, I'm Fran Favieri!  
+# 👋 Hi there! I'm Fran Favieri  
 
-**🇪🇸 Español**  
-Soy **Licenciado y Profesor en Sociología**, además de **Doctor en Ciencias Sociales**. Me desempeño como **investigador del CONICET** y **docente en la Universidad Nacional de San Juan**.  
+## 🇪🇸 Sobre mí  
 
-Mi trabajo se centra en el estudio del **mercado de trabajo, la conflictividad laboral, el sindicalismo, la pobreza, la desigualdad y la estructura social**. También investigo temas vinculados a la **demografía y la sociología política**, abordando estas problemáticas desde una perspectiva crítica y multidimensional, en la que el uso de datos cuantitativos es una parte fundamental de mi trabajo.  
+Soy **Licenciado y Profesor en Sociología** y **Doctor en Ciencias Sociales**.  
+Me desempeño como **Investigador del CONICET** y **Docente en la Universidad Nacional de San Juan (Argentina)**.  
 
-**🇬🇧 English**  
-I am a **Sociologist (B.A. and Teaching Degree) and hold a Ph.D. in Social Sciences**. I currently work as a **researcher at CONICET** and a **professor at the National University of San Juan**.  
+Mi trabajo se centra en el estudio del **mercado de trabajo, la conflictividad laboral, el sindicalismo, la pobreza, la desigualdad y la estructura social**.  
 
-My research focuses on **labor markets, labor conflicts, trade unions, poverty, inequality, and social structure**. I also explore topics related to **demography and political sociology**, approaching these issues from a critical and multidimensional perspective, where the use of quantitative data plays a key role in my work.  
+Actualmente investigo especialmente temas vinculados a la **precariedad laboral y el riesgo de automatización**, analizando cómo la transformación tecnológica reconfigura las estructuras ocupacionales y las desigualdades sociales.  
 
----
-
-## 🔧 Tecnologías y Herramientas | Technologies & Tools  
-
-- **🖥️ Lenguajes | Languages**: R  
-- **📚 Frameworks**: React  
-- **🛠️ Herramientas | Tools**: Git, Docker  
-- **💾 Bases de datos | Databases**: SQL, MySQL, PostgreSQL  
+Trabajo desde una perspectiva crítica y multidimensional, donde el uso de **datos cuantitativos, programación y herramientas computacionales** es parte fundamental del análisis.
 
 ---
 
-## 🚀 Proyectos | Projects  
+## 🇬🇧 About Me  
 
-### **🇪🇸 Español**  
-Algunos proyectos en los que estoy trabajando:  
-- **📢 Boletín de pobreza y desigualdad**: Informe breve sobre pobreza y desigualdad en el Gran San Juan, Argentina.  
-- **📊 Dashboard de empleo**: Aplicación en **Shiny** para visualizar estadísticas del mercado de trabajo.  
+I am a **Sociologist (B.A. and Teaching Degree) and hold a Ph.D. in Social Sciences**.  
+I work as a **Researcher at CONICET** and as a **Professor at the National University of San Juan (Argentina)**.  
 
-### **🇬🇧 English**  
-Here are a few projects I've been working on:  
-- **📢 Poverty and Inequality Bulletin**: A short report on poverty and inequality in Greater San Juan, Argentina.  
-- **📊 Employment Dashboard**: A **Shiny app** to visualize labor market statistics.  
+My research focuses on **labor markets, labor conflicts, trade unions, poverty, inequality, and social structure**.  
 
----
+I am currently working on **labor precariousness and automation risk**, examining how technological change reshapes occupational structures and social inequalities.  
 
-## 📈 Estadísticas de GitHub | GitHub Stats  
-
-![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=franfavieri&show_icons=true&theme=radical)  
+My approach is critical and multidimensional, with a strong emphasis on **quantitative data analysis and computational methods**.
 
 ---
 
-## 📫 Contacto | How to Reach Me  
+## 🔧 Technologies & Tools  
 
-📧 **Email**: [franciscofavieri@gmail.com](mailto:franciscofavieri@gmail.com)  
-📷 **Instagram**: [@franfavieri](https://www.instagram.com/franfavieri)  
-🐦 **X (Twitter)**: [@franfavieri](https://twitter.com/franfavieri)  
-🌐 **Website**: [geset.facso.unsj.edu.ar](http://geset.facso.unsj.edu.ar)  
-
----
-
-## 🌱 Aprendiendo Actualmente | Currently Learning  
-
-- **🖥️ Desarrollo de aplicaciones Shiny | Shiny apps development**  
+- 🖥️ **Languages**: R, Python (currently learning)  
+- ⚛️ **Frameworks**: React  
+- 🛠️ **Tools**: Git, Docker  
+- 💾 **Databases**: SQL, MySQL, PostgreSQL  
 
 ---
 
-## 💬 Pregúntame sobre | Ask Me About  
+## 🚀 Current Projects  
 
-- **📉 Mercado de trabajo | Labor markets**  
-- **🏛️ Estructura social | Social structure**  
-- **⚖️ Conflictividad laboral | Labor conflicts**  
-- **💰 Pobreza y desigualdad | Poverty and inequality**  
-- **🗳️ Sociología política | Political sociology**  
-- **📊 Sociología de la población | Population sociology**  
+- 📢 **Poverty & Inequality Bulletin** – Short reports on poverty and inequality in Greater San Juan, Argentina.  
+- 📊 **Employment Dashboard (Shiny App)** – Interactive labor market statistics visualization tool for precariety.  
+- 🤖 **Automation Risk & Occupational Structure Research** – Quantitative analysis of technological change and labor precarization.
 
 ---
 
-¡Gracias por visitar mi perfil! 😊 | Thanks for visiting my profile! 😊  
+## 🌱 Currently Learning  
+
+- 🐍 Python for data analysis and automation  
+- 🖥️ Advanced Scrapping  
+
+---
+
+## 💬 Ask Me About  
+
+- Labor markets  
+- Social structure  
+- Labor conflicts  
+- Poverty & inequality  
+- Political sociology  
+- Population studies  
+
+---
+
+## 📫 Contact  
+
+- 📧 Email: franciscofavieri@gmail.com  
+- 🌐 Website: http://geset.facso.unsj.edu.ar  
+- 🐦 X (Twitter): @franfavieri  
+- 📷 Instagram: @franfavieri  
+
+---
+
+![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=franfavieri&show_icons=true&theme=radical)
