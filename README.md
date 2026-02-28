@@ -69,5 +69,3 @@ My approach is critical and multidimensional, with a strong emphasis on **quanti
 - 📷 Instagram: @franfavieri  
 
 ---
-
-![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=franfavieri&show_icons=true&theme=radical)
