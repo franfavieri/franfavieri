@@ -37,8 +37,7 @@ My approach is critical and multidimensional, with a strong emphasis on **quanti
 
 ## 🚀 Current Projects  
 
-- 📢 **Poverty & Inequality Bulletin** – Short reports on poverty and inequality in Greater San Juan, Argentina.  
-- 📊 **Employment Dashboard (Shiny App)** – Interactive labor market statistics visualization tool for precariety.  
+- 📢 **Poverty & Inequality Bulletin** – Short reports on poverty and inequality in Greater San Juan, Argentina.   
 - 🤖 **Automation Risk & Occupational Structure Research** – Quantitative analysis of technological change and labor precarization.
 
 ---
